@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Courtney :whale: 
+### My name is Courtney  
 
 
 
@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 🔭 I’m currently working on completing my degree in computer science from Colorado State University Global Campus and building a busness called [Connective Horizons](https://connectivehorizons.com).
 
 ## Skills
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-	
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,tailwind,vim" />
+  </a>
+</p>

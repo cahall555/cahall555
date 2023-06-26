@@ -9,7 +9,7 @@ My career path has allowed me to work in a wide range of positions from accounti
 
 :palm_tree: I live in St. Croix U.S.V.I
 
-:blossom: Check out my [Portfolio](courtney.elsner.dev)
+:blossom: Check out my [Portfolio](https://www.courtney.elsner.dev)
 
 
 ## Skills

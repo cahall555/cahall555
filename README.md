@@ -9,12 +9,12 @@ My career path has allowed me to work in a wide range of positions from accounti
 
 :palm_tree: I live in St. Croix U.S.V.I
 
-:blossom: Check out my [Portfolio](https://www.courtney.elsner.dev)
+:blossom: Check out my [Portfolio](https://courtney.elsner.dev/)
 
 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,tailwind,vim,vscode,figma,firebase,js,nextjs vercel,html,java,aws" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,tailwind,vim,vscode,figma,firebase,js,nextjs vercel,html,java,aws&perline=10" />
   </a>
 </p>

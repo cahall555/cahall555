@@ -15,6 +15,6 @@ My career path has allowed me to work in a wide range of positions from accounti
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,tailwind,vim,vscode,figma,firebase,js,nextjs vercel,html,java,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,tailwind,vim,vscode,figma,firebase,js,nextjs, vercel,html,java,aws&perline=10" />
   </a>
 </p>

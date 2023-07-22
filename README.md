@@ -1,4 +1,4 @@
-<img src="./assets/seaside.jpg" alt="beach" width="750" height="150" />
+<img src="./assets/seaside.jpg" alt="beach" width="900" height="150" />
 
 ### Hey, my name is Courtney  
 

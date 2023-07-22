@@ -11,10 +11,9 @@
 .img{
 	opacity: 0.7;
 }
-}
 </style>
 
-<img src="./assets/seaside.jpg" alt="beach" width="900" height="150"> 
+<img class="container" src="./assets/seaside.jpg" alt="beach" width="900" height="150"> 
 <h1 class="center">Hello, my name is Courtney</h1>
 </img>
 

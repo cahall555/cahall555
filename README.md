@@ -1,6 +1,7 @@
 <style>
 .container{
 	position:relative;
+}
 
 .center{
 	position: absolute;

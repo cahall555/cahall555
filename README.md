@@ -1,4 +1,5 @@
-<img src="./assets/beach.jpg" alt="beach" width="500" height="150" />
+<img src="./assets/beach.jpg" alt="beach" width="750" height="150" />
+
 ### Hey, my name is Courtney  
 
 ### About me

@@ -1,5 +1,5 @@
 <img src="./assets/seaside.jpg" alt="beach" width="900" height="150"> 
-<h1>Hello, my name is Courtney</h1>
+<h1 class="center">Hello, my name is Courtney</h1>
 </img>
 
 ### Hey, my name is Courtney  

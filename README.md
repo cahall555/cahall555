@@ -1,4 +1,4 @@
-![beach](./assets/beach.jpg)
+<img src="./assets/beach.jpg" alt="beach" height:"50" />
 ### Hey, my name is Courtney  
 
 ### About me

@@ -1,3 +1,19 @@
+<style>
+.container{
+	position:relative;
+
+.center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.img{
+	opacity: 0.7;
+}
+}
+</style>
+
 <img src="./assets/seaside.jpg" alt="beach" width="900" height="150"> 
 <h1 class="center">Hello, my name is Courtney</h1>
 </img>

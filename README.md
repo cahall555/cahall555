@@ -1,29 +1,9 @@
-<style>
-.container{
-	position:relative;
-}
-
-.center{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
-.img{
-	opacity: 0.7;
-}
-</style>
-
-<img class="container" src="./assets/seaside.jpg" alt="beach" width="900" height="150"> 
-<h1 class="center">Hello, my name is Courtney</h1>
-</img>
-
 ### Hey, my name is Courtney  
 
 ### About me
 My career path has allowed me to work in a wide range of positions from accounting to product management, and now software development. These opportunities have provided me with hands on experience with challenges and needs of different verticals within an organization. I enjoy bringing this experience with me as a build software that makes process more efficient. 
 
-🔭 I’m currently working on completing my degree in computer science from Colorado State University Global Campus and building a business called [Connective Horizons](https://connectivehorizons.com).
+🔭 I’m currently working on completing my degree in computer science from Colorado State University Global Campus, and building a business called [Connective Horizons](https://connectivehorizons.com).
 
 🌱 I’m especially interested in projects that have a positive environmental impact.
 
